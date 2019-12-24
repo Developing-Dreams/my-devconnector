@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://prabutonline:ZyRhd1v7ZOwkov8N@mydevconnector-wngif.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret"
+}
