@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://prabutonline:ZyRhd1v7ZOwkov8N@mydevconnector-wngif.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret":"mysecret"
+    "jwtSecret":"mysecret",
+    "githubClientId":"5e8aeb6fc6efcfb9eb38",
+    "githubSecretId":"2b870db0d0d6a5dd5b8cc979c33194441b3b2bce"
 }
